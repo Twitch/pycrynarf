@@ -1,7 +1,9 @@
 #!/usr/bin/python
-# ENE Challenege 15
 # CryPyNarf! Poit. ZOT!
-# -- ben sauls
+# A threaded test of which SSL/TLS ciphers are
+# supported on the server.
+
+# Requires openssl for testing.
 
 
 suites = {"ssl2": [
